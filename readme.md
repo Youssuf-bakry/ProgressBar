@@ -2,6 +2,7 @@
 
 ![ScreenShot](https://i.stack.imgur.com/6HiKD.png)
 
+#[Live Website](https://yosefquotes.netlify.app)
 ### Quick Practicing on Front-end skills.
 
 ---
@@ -10,7 +11,9 @@
 
 I learned another way of manipulating css attribues with JS
 I also learned that it is not allowd to use PseudoELements on img(and also other self closing tag elements)
-The line progress bar was little tricky for mathematical calcualtion
+The line progress bar was little tricky because of the  mathematical calcualtion😅
+
+
 
 ### Technologies & Tools used
 
